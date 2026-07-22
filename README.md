@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ajayvoracyber">
-    <img src="https://avatars.githubusercontent.com/u/51220606?v=4" width="130" height="130" style="border-radius: 50%; border: 3px solid #00F0FF;" alt="Ajay Vora Profile Picture" />
+    <img src="https://avatars.githubusercontent.com/u/51220606?v=4" width="140" height="140" style="border-radius: 50%; border: 3px solid #00F0FF;" alt="Ajay Vora Profile Picture" />
   </a>
 
   <h1>Ajay Vora</h1>
@@ -23,32 +23,38 @@
     <td width="33%" align="center" valign="top">
       <br>
       <a href="https://cyberedu.in">
-        <img src="assets/cyberedu-logo.png" height="55" alt="CyberEdu Logo" />
+        <img src="assets/cyberedu-logo.png" height="110" alt="CyberEdu Logo" />
       </a>
+      <br><br>
       <h3>CyberEdu</h3>
       <p><b>Cybersecurity Training & Education</b></p>
       <p>Hands-on ethical hacking, defensive security, & IT security training programs for career growth.</p>
       <a href="https://cyberedu.in"><b>🌐 cyberedu.in</b></a>
+      <br><br>
     </td>
     <td width="33%" align="center" valign="top">
       <br>
       <a href="https://cybergrow.in">
-        <img src="assets/cybergrow-logo.png" height="55" alt="CyberGrow Logo" />
+        <img src="assets/cybergrow-logo.png" height="110" alt="CyberGrow Logo" />
       </a>
+      <br><br>
       <h3>CyberGrow</h3>
       <p><b>Digital Marketing & AI Products</b></p>
       <p>Social Media Management, Paid Campaigns, Business Automation, WhatsApp API & AI Products.</p>
       <a href="https://cybergrow.in"><b>🌐 cybergrow.in</b></a>
+      <br><br>
     </td>
     <td width="33%" align="center" valign="top">
       <br>
       <a href="https://cyberhq.in">
-        <img src="assets/cyberhq-logo.png" height="55" alt="CyberHQ Logo" />
+        <img src="assets/cyberhq-logo.png" height="110" alt="CyberHQ Logo" />
       </a>
+      <br><br>
       <h3>CyberHQ</h3>
       <p><b>Web Dev & Security Consultancy</b></p>
       <p>Custom Web Application Development, Enterprise Security Audits, & Infrastructure Consultancy.</p>
       <a href="https://cyberhq.in"><b>🌐 cyberhq.in</b></a>
+      <br><br>
     </td>
   </tr>
 </table>

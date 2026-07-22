@@ -23,7 +23,7 @@
     <td width="33%" align="center" valign="top">
       <br>
       <a href="https://cyberedu.in">
-        <img src="assets/cyberedu-logo.png" height="85" style="border-radius: 12px; max-width: 90%;" alt="CyberEdu Logo" />
+        <img src="assets/cyberedu-logo.png" height="140" style="border-radius: 12px; max-width: 95%;" alt="CyberEdu Logo" />
       </a>
       <br><br>
       <h3>🎓 CyberEdu</h3>
@@ -35,7 +35,7 @@
     <td width="33%" align="center" valign="top">
       <br>
       <a href="https://cybergrow.in">
-        <img src="assets/cybergrow-logo.png" height="85" style="border-radius: 12px; max-width: 90%;" alt="CyberGrow Logo" />
+        <img src="assets/cybergrow-logo.png" height="140" style="border-radius: 12px; max-width: 95%;" alt="CyberGrow Logo" />
       </a>
       <br><br>
       <h3>🚀 CyberGrow</h3>
@@ -47,7 +47,7 @@
     <td width="33%" align="center" valign="top">
       <br>
       <a href="https://cyberhq.in">
-        <img src="assets/cyberhq-logo.png" height="85" style="border-radius: 12px; max-width: 90%;" alt="CyberHQ Logo" />
+        <img src="assets/cyberhq-logo.png" height="140" style="border-radius: 12px; max-width: 95%;" alt="CyberHQ Logo" />
       </a>
       <br><br>
       <h3>🏢 CyberHQ</h3>

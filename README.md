@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ajayvoracyber">
-    <img src="https://avatars.githubusercontent.com/u/51220606?v=4" width="140" height="140" style="border-radius: 50%; border: 3px solid #00F0FF;" alt="Ajay Vora Profile Picture" />
+    <img src="https://avatars.githubusercontent.com/u/51220606?v=4" width="130" height="130" style="border-radius: 50%; border: 3px solid #00F0FF;" alt="Ajay Vora Profile Picture" />
   </a>
 
   <h1>Ajay Vora</h1>
@@ -16,37 +16,48 @@
 
 <hr />
 
-## 🏢 My Core Business Ventures
+## 🏢 Business Ventures
 
-<div align="center">
-  <br>
-  <a href="https://cyberedu.in">
-    <img src="assets/cyberedu-logo.png" width="75%" alt="CyberEdu - IT Security Education" />
-  </a>
-  <br><br>
-  <h3>🎓 CyberEdu — IT Security Education</h3>
-  <p>Hands-on ethical hacking, defensive security, & IT security training programs for career growth.</p>
-  <a href="https://cyberedu.in"><img src="https://img.shields.io/badge/Visit-cyberedu.in-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
-  <br><br><br><hr width="60%"><br>
-
-  <a href="https://cybergrow.in">
-    <img src="assets/cybergrow-logo.png" width="75%" alt="CyberGrow - Digital Marketing & AI Products" />
-  </a>
-  <br><br>
-  <h3>🚀 CyberGrow — Scale with Confidence</h3>
-  <p>Social Media Management, Paid Campaigns, Business Automation, WhatsApp API & AI Products.</p>
-  <a href="https://cybergrow.in"><img src="https://img.shields.io/badge/Visit-cybergrow.in-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <br><br><br><hr width="60%"><br>
-
-  <a href="https://cyberhq.in">
-    <img src="assets/cyberhq-logo.png" width="75%" alt="CyberHQ - All IT Solutions" />
-  </a>
-  <br><br>
-  <h3>🏢 CyberHQ — All IT Solutions</h3>
-  <p>Custom Web Application Development, Enterprise Security Audits, & Infrastructure Consultancy.</p>
-  <a href="https://cyberhq.in"><img src="https://img.shields.io/badge/Visit-cyberhq.in-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <br><br>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <a href="https://cyberedu.in">
+        <img src="assets/cyberedu-logo.png" height="85" style="border-radius: 12px; max-width: 90%;" alt="CyberEdu Logo" />
+      </a>
+      <br><br>
+      <h3>🎓 CyberEdu</h3>
+      <p><b>IT Security Education</b></p>
+      <p>Hands-on ethical hacking, defensive security, & IT training.</p>
+      <a href="https://cyberedu.in"><b>🌐 cyberedu.in</b></a>
+      <br><br>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <a href="https://cybergrow.in">
+        <img src="assets/cybergrow-logo.png" height="85" style="border-radius: 12px; max-width: 90%;" alt="CyberGrow Logo" />
+      </a>
+      <br><br>
+      <h3>🚀 CyberGrow</h3>
+      <p><b>Digital Marketing & AI</b></p>
+      <p>Social Media, Paid Ads, Business Automation & AI Products.</p>
+      <a href="https://cybergrow.in"><b>🌐 cybergrow.in</b></a>
+      <br><br>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <a href="https://cyberhq.in">
+        <img src="assets/cyberhq-logo.png" height="85" style="border-radius: 12px; max-width: 90%;" alt="CyberHQ Logo" />
+      </a>
+      <br><br>
+      <h3>🏢 CyberHQ</h3>
+      <p><b>Web Dev & Consultancy</b></p>
+      <p>Custom Web Applications, Security Audits & Consultancy.</p>
+      <a href="https://cyberhq.in"><b>🌐 cyberhq.in</b></a>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 <hr />
 

@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ajayvoracyber">
-    <img src="https://avatars.githubusercontent.com/u/51220606?v=4" width="130" height="130" style="border-radius: 50%; border: 3px solid #00F0FF;" alt="Ajay Vora Profile Picture" />
+    <img src="assets/ajay-vora-photo.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #00F0FF; object-fit: cover;" alt="Ajay Vora Official Profile Photo" />
   </a>
 
   <h1>Ajay Vora</h1>

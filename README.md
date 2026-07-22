@@ -16,13 +16,42 @@
 
 <hr />
 
-## 🏢 Business Ventures
+## 🏢 My Core Business Ventures
 
-| Venture | Domain & Focus | Official Website |
-| :--- | :--- | :---: |
-| **🎓 CyberEdu** | Cybersecurity Training, Ethical Hacking, & Hands-on IT Education | [**cyberedu.in**](https://cyberedu.in) |
-| **🚀 CyberGrow** | Social Media Management, Paid Campaigns, WhatsApp API & AI Products | [**cybergrow.in**](https://cybergrow.in) |
-| **🏬 CyberHQ** | Custom Web Application Development & Cybersecurity Consultancy | [**cyberhq.in**](https://cyberhq.in) |
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <a href="https://cyberedu.in">
+        <img src="assets/cyberedu-logo.png" height="55" alt="CyberEdu Logo" />
+      </a>
+      <h3>CyberEdu</h3>
+      <p><b>Cybersecurity Training & Education</b></p>
+      <p>Hands-on ethical hacking, defensive security, & IT security training programs for career growth.</p>
+      <a href="https://cyberedu.in"><b>🌐 cyberedu.in</b></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <a href="https://cybergrow.in">
+        <img src="assets/cybergrow-logo.png" height="55" alt="CyberGrow Logo" />
+      </a>
+      <h3>CyberGrow</h3>
+      <p><b>Digital Marketing & AI Products</b></p>
+      <p>Social Media Management, Paid Campaigns, Business Automation, WhatsApp API & AI Products.</p>
+      <a href="https://cybergrow.in"><b>🌐 cybergrow.in</b></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <a href="https://cyberhq.in">
+        <img src="assets/cyberhq-logo.png" height="55" alt="CyberHQ Logo" />
+      </a>
+      <h3>CyberHQ</h3>
+      <p><b>Web Dev & Security Consultancy</b></p>
+      <p>Custom Web Application Development, Enterprise Security Audits, & Infrastructure Consultancy.</p>
+      <a href="https://cyberhq.in"><b>🌐 cyberhq.in</b></a>
+    </td>
+  </tr>
+</table>
 
 <hr />
 
